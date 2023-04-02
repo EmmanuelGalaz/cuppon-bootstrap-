@@ -1,0 +1,62 @@
+.nav {
+    background-color: #28A745;
+    font-family: roboto, light;
+}
+
+.logoblanco {
+    height: 25px;
+    width: 86px;
+    padding-left: 20px;
+}
+
+nav h3,
+p {
+
+    font-family: Roboto, Medium;
+    color: #212529;
+}
+
+h6 {
+    font-family: Roboto, light;
+    color: #707070;
+
+}
+
+button {
+
+    font-family: Roboto, light !important;
+}
+
+.card-img-top {
+    height: 180px;
+    width: 278px;
+    padding: 0%;
+    margin: 0%;
+}
+
+.texto {
+    font-size: 20px;
+    font-family: roboto, light;
+}
+
+.texto2 {
+    font-size: 13px;
+    font-family: roboto, light
+}
+
+.logonegro {
+    width: 82px;
+    height: 24px;
+}
+
+.oferta {
+    font-family: Roboto, medium;
+    font-size: 20px;
+    color: #28A745;
+}
+
+.correo {
+    font-family: Roboto, medium;
+    font-size: 21px;
+
+}
